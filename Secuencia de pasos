@@ -1,0 +1,12 @@
+Instalar todos los programas requeridos. (XAMPP, NET BEANS, JAVA, JAVA KIT DEVELOPMENT, )
+Descargar la base de datos.
+Descargar el archivo .rar.
+Extraer el archivo rar dentro de la carpeta htdocs que esta en la carpeta de Net Beans.
+Correr XAMPP y ejecutar Apache y Mysql.
+Entrar a phpmyadmin.
+Crear una base de datos.
+Cargar la base de datos descargada de github.
+Abrir Net Beans
+Abrir el proyecto desde la aplicacion.
+Abrir el explorador y dirigirse a : localhost/(nombredelabd)/
+Fin.
